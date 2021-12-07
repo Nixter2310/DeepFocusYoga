@@ -1,0 +1,557 @@
+@media screen and (max-width: 1440px) {
+    /*Home*/
+    .left {
+        margin-left: 100px;
+    }
+    .right {
+        margin-right: 100px;
+    }
+    .topnav a {
+        padding: 0 70px;
+    }
+    .topnav a:hover {
+        padding: 0 70px;
+    }
+    #top_image #top_text h1 {
+        top: 72%;
+        left: 49%;
+        transform: translate(-49%, -50%);
+    }
+    #logo img {
+        margin: 50px auto auto 75px;
+    }
+    #about img {
+        margin-top: 30px;
+        height: 880px;
+        width: 1425px;
+    }
+    #about_title h1 {
+        margin-top: 150px;
+    }
+    #about_text p {
+        margin-top: 130px;
+        width: 71%;
+        font-size: 21px;
+    }
+    .row {
+        margin-top: 70px;
+    }
+    .column {
+        padding: 50px;
+    }
+    .column img {
+        height: 350px;
+        width: 375px;
+    }
+    .column p {
+        font-size: 21px!important;
+    }
+    #mid_text h1 {
+        left: 48%;
+        transform: translate(-44%, 115%);
+    }
+    #mid_text img {
+        margin: 40px auto;
+    }
+    #contact {
+        margin-top: 130px;
+    }
+    #details p {
+        font-size: 20px!important;
+    }
+    #footer p {
+        font-size: 19px!important;
+    }
+    .container, input[type=text], select, textarea, input[type=submit] {
+        font-size: 21px;
+    }
+    /*Yoga*/
+    #yoga_head #top_text h1 {
+       top: 71%;
+    }
+    #about_yoga_text p, #about_wellness_text p, #about_zumba_text p {
+        width: 92%;
+        font-size: 21px;
+    }
+    #about_yoga_text li, #about_wellness_text li {
+        font-size: 21px!important;
+    }
+    #about_yoga_text, #about_wellness_text, #about_zumba_text {
+        margin-left: 100px;
+    }
+    iframe {
+        margin: 70px auto 70px 325px;
+    }
+    /*Wellness*/
+    #wellness_head #top_text h1 {
+        top: 70%;
+        left: 51%;
+    }
+    /*Zumba*/
+    #zumba_head #top_text h1 {
+        top: 71%;
+    }
+}
+@media screen and (max-width: 1360px) {
+    #logo img {
+        margin: 50px auto auto 50px;
+    }
+    #top_image #top_text h1 {
+        top: 86%;
+        left: 46%;
+        font-size: 50px;
+        transform: translate(-42%, -50%);
+    }
+    #top_text img {
+        width: 1330px;
+    }
+    #about_title h1 {
+        margin-top: 140px;
+        font-size: 45px;
+    }
+    #about_text p {
+        margin-top: 120px;
+        width: 75%;
+        font-size: 21px;
+    }
+    #about img {
+        height: 860px;
+        width: 1345px;
+    }
+    .column {
+        padding: 45px;
+    }
+    .column img {
+        height: 330px;
+        width: 350px;
+    }
+    h4 {
+        font-size: 42px;
+    }
+    h5 {
+        font-size: 20px;
+    }
+    p {
+        font-size: 21px;
+    }
+    #mid_text img {
+        width: 1330px;
+    }
+    #mid_text h1 {
+        left: 45%;
+        transform: translate(-40%, 115%);
+        font-size: 45px;
+    }
+    #contact_title h1 {
+        font-size: 45px;
+    }
+    input[type=text], select, textarea, input[type=submit], input[type=submit]:hover, .container {
+        font-size: 22px;
+    }
+    /*Yoga*/
+    #yoga_head #top_text h1 {
+        top: 83%;
+    }
+    iframe {
+        margin: 70px auto 70px 310px;
+    }
+    /*Wellness*/
+    #wellness_head #top_text h1 {
+        top: 82%;
+    }
+    /*Zumba*/
+    #zumba_head #top_text h1 {
+        top: 84%;
+    }
+}
+@media screen and (max-width: 1024px) and (max-height: 768px) and (orientation: landscape) {
+    #top_image #top_text h1 {
+        top: 75%;
+        left: 36%;
+        transform: translate(-29%, -50%);
+    }
+    .left {
+        margin-left: 10px;
+    }
+    .right {
+        margin-right: 10px;
+    }
+    .topnav a:hover {
+        padding: 0 50px;
+    }
+    #logo img {
+        margin: 50px auto auto 35px;
+    }
+    .topnav a {
+        padding: 0 50px;
+    }
+    #top_text img, #mid_text img {
+        width: 1010px;
+        height: 450px;
+    }
+    #top_image #top_text h1 {
+        font-size: 45px;
+        line-height: 65px;
+        transform: translate(-38%, -50%);
+        top: 76%;
+        left: 43%;
+    }
+    #about img {
+        height: 920px;
+        width: 1010px;
+    }
+    #about_title h1 {
+        margin-top: 130px;
+        font-size: 40px;
+    }
+    #about_text p {
+        margin-top: 75px;
+        width: 71%;
+        font-size: 20px;
+    }
+    p {
+        font-size: 20px;
+    }
+    .row {
+        display: inline-block;
+    }
+    .column img {
+        height: 370px;
+        width: 390px;
+        margin: auto;
+        display: block;
+    }
+    .column p {
+        font-size: 20px!important;
+    }
+    h4 {
+        font-size: 40px;
+    }
+    #mid_text h1 {
+        left: 40%;
+        transform: translate(-33%, 105%);
+        font-size: 40px;
+        line-height: 65px;
+    }
+    #contact {
+        margin-top: 110px;
+    }
+    #contact_title h1 {
+        font-size: 40px;
+        padding-top: 80px;
+    }
+    input[type=text], select, textarea, input[type=submit], input[type=submit]:hover, .container {
+        font-size: 20px;
+    }
+    .container {
+        width: 60%;
+    }
+    #footer p {
+        font-size: 18px;
+    }
+    /*Yoga*/
+    #yoga_head #top_text h1 {
+        top: 75%;
+        left: 49%;
+    }
+    #about_yoga_text p, #about_wellness_text p, #about_zumba_text p {
+        font-size: 20px;
+        width: 90%;
+    }
+    #about_yoga_text, #about_wellness_text, #about_zumba_text {
+        margin-left: 75px;
+    }
+    #about_yoga_text li, #about_wellness_text li {
+        font-size: 20px!important;
+    }
+    iframe {
+        margin: 70px auto 70px 150px;
+    }
+    /*Wellness*/
+    #wellness_head #top_text h1 {
+        top: 73%;
+        left: 50%;
+    }
+    /*Zumba*/
+    #zumba_head #top_text h1 {
+        top: 74%;
+        left: 50%;
+    }
+}
+@media screen and (max-width: 768px) and (max-height: 1024px) and (orientation: portrait) {
+    #top_image #top_text h1 {
+        top: 50%;
+        left: 32%;
+        transform: translate(-24%, -50%);
+    }
+    .left {
+        margin-left: 20px;
+    }
+    .right {
+        margin-right: 20px;
+    }
+    .topnav a, .topnav a:hover {
+        padding: 0 20px;
+    }
+    #logo img {
+        margin: 30px auto auto 19px;
+        display: block;
+    }
+    #top_text img, #mid_text img {
+        width: 751px;
+        height: 370px;
+    }
+    #top_text h1 {
+        top: 51%;
+        left: 32%;
+        font-size: 35px;
+        line-height: 60px;
+        transform: translate(-25%, -50%);
+    }
+    #about_title h1 {
+        margin-top: 120px;
+        font-size: 35px;
+    }
+    #about_text p {
+        margin-top: 20px;
+        width: 75%;
+        font-size: 20px;
+    }
+    #about img {
+        height: 1020px;
+        width: 751px;
+    }
+    .row {
+        display: inline-block;
+    }
+    .column img {
+        height: 370px;
+        width: 390px;
+        margin: auto;
+        display: block;
+    }
+    .column p {
+        font-size: 20px!important;
+    }
+    h4 {
+        font-size: 35px;
+    }
+    p {
+        font-size: 20px;
+    }
+    #mid_text h1 {
+        left: 31%;
+        transform: translate(-23%, 85%);
+        font-size: 35px;
+        line-height: 60px;
+    }
+    #contact {
+        margin-top: 100px;
+    }
+    #contact_title h1 {
+        font-size: 35px;
+        padding: 80px;
+    }
+    input[type=text], select, textarea, input[type=submit], input[type=submit]:hover, .container {
+        font-size: 20px;
+    }
+    .container {
+        width: 70%;
+        margin-top: -40px;
+    }
+    #footer p {
+        font-size: 18px;
+    }
+    h5 {
+        font-size: 20px;
+    }
+    /*Yoga*/
+    #yoga_head #top_text h1 {
+        top: 50%;
+        left: 46%;
+        font-size: 40px;
+    }
+    #about_yoga_text, #about_wellness_text, #about_zumba_text {
+        margin-left: 55px;
+    }
+    #about_yoga_text p, #about_wellness_text p, #about_zumba_text p {
+        width: 92%;
+        font-size: 20px;
+    }
+    #about_yoga_text li, #about_wellness_text li {
+        font-size: 20px!important;
+    }
+    iframe {
+        margin: 70px auto 70px 40px;
+    }
+    /*Wellness*/
+    #wellness_head #top_text h1 {
+        top: 50%;
+        left: 45%;
+        font-size: 40px;
+    }
+    /*Zumba*/
+    #zumba_head #top_text h1 {
+        top: 51%;
+        left: 45%;
+        font-size: 40px;
+    }
+}
+@media screen and (max-width: 767px) {
+    #top_image #top_text h1 {
+        top: 89%;
+        left: 34%;
+        font-size: 25px;
+        line-height: 35px;
+        transform: translate(-25%, -50%);
+    }
+    #top_text img, #mid_text img {
+        height: 200px;
+        width: 100%;
+    }
+    .left, .right {
+        display: none;
+    }
+    #mobile_topnav {
+        background-color: white;
+        overflow: hidden;
+        display: grid;
+    }
+    #mobile_topnav a {
+        float: left;
+        color: #5271FF;
+        text-align: center;
+        padding: 0 11px;
+        text-decoration: none;
+        font-size: 15px;
+        margin-top: 35px;
+        font-family: "Century Gothic", sans-serif;
+    }
+    #mobile_topnav a:hover {
+        background-color: paleturquoise;
+        color: darkblue;
+        padding: 4px 10px;
+    }
+    #logo img {
+        height: 200px;
+        width: 200px;
+        margin: 15px auto auto 75px;
+    }
+    #about {
+        margin-top: -40px;
+    }
+    #about_title h1 {
+        margin-top: 100px;
+        font-size: 25px;
+    }
+    #about_text p {
+        width: 78%;
+        font-size: 15px;
+        line-height: 30px;
+        margin-top: 0;
+    }
+    #about img {
+        height: 950px;
+        width: 359px;
+    }
+    .column img {
+        height: 250px;
+        width: 270px;
+    }
+    .column {
+        padding: 0 5px 60px 5px;
+    }
+    .column p {
+        font-size: 15px!important;
+        line-height: 30px;
+    }
+    h4 {
+        font-size: 25px;
+        margin-left: 10px;
+    }
+    p {
+        font-size: 15px;
+        line-height: 30px;
+    }
+    .column p {
+        margin-left: 30px;
+        margin-right: 30px;
+    }
+    #mid_text img {
+        margin-top: -10px;
+    }
+    #mid_text h1 {
+        font-size: 25px;
+        line-height: 40px;
+        left: 20%;
+        transform: translate(-13%, 19%);
+    }
+    #contact {
+        margin-top: 60px;
+    }
+    #contact_title h1 {
+        font-size: 25px;
+        padding-top: 50px;
+    }
+    .container {
+        width: 80%;
+        margin-top: -45px;
+    }
+    input[type=text], select, textarea, input[type=submit], input[type=submit]:hover, .container {
+        font-size: 15px;
+    }
+    #details p {
+        margin-top: 50px;
+        font-size: 15px!important;
+        line-height: 30px;
+    }
+    #footer p {
+        font-size: 14px!important;
+        text-align: center;
+        width: 98%;
+    }
+    h5 {
+        font-size: 16px;
+    }
+    /*Yoga*/
+    #yoga_head #top_text h1 {
+        font-size: 30px;
+        top: 89%;
+        left: 44%;
+    }
+    #about_yoga_text p, #about_wellness_text p, #about_zumba_text p {
+        width: 90%;
+        font-size: 15px;
+        line-height: 30px;
+        margin-bottom: -20px;
+    }
+    #about_yoga_text, #about_wellness_text, #about_zumba_text {
+        margin-left: 30px;
+        margin-top: -10px;
+    }
+    #about_yoga_text li, #about_wellness_text li {
+        font-size: 15px!important;
+        margin-top: 0;
+        line-height: 35px;
+    }
+    ul {
+        margin-left: -20px;
+    }
+    iframe {
+        height: 185px;
+        width: 300px;
+        margin: 50px auto 40px 0;
+    }
+    /*Wellness*/
+    #wellness_head #top_text h1 {
+        top: 88%;
+        left: 41%;
+        font-size: 30px;
+    }
+    /*Zumba*/
+    #zumba_head #top_text h1 {
+        top: 89%;
+        left: 44%;
+        font-size: 30px;
+    }
+}
