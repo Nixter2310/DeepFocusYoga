@@ -43,7 +43,7 @@ font-family: 'Poppins', sans-serif;
     position: absolute;
     top: 60%;
     left: 50%;
-    transform: translate(-50%, -50%);
+    transform: translate(-50%, -30%);
     font-family: 'Poppins', sans-serif;
     font-size: 50px;
     text-align: center;
@@ -113,7 +113,7 @@ h5 {
 #mid_text h1 {
     position: absolute;
     left: 50%;
-    transform: translate(-50%, 125%);
+    transform: translate(-50%, 105%);
     font-family: 'Poppins', sans-serif;
     font-size: 50px;
     text-align: center;
