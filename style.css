@@ -47,7 +47,7 @@ font-family: 'Poppins', sans-serif;
     font-family: 'Poppins', sans-serif;
     font-size: 50px;
     text-align: center;
-    font-weight: bold;
+    font-weight: normal;
     color: black;
     line-height: 80px;
 }
@@ -117,7 +117,7 @@ h5 {
     font-family: 'Poppins', sans-serif;
     font-size: 50px;
     text-align: center;
-    font-weight: bolder;
+    font-weight: normal;
     color: black;
     line-height: 80px;
 }
@@ -192,7 +192,7 @@ display: block;
 }
 #yoga_head, #top_text h1 {
   top: 60%;
-    font-weight: bolder;
+    font-weight: normal;
 }
 #about_yoga_text, #about_wellness_text, #about_zumba_text {
     margin-top: 100px;
