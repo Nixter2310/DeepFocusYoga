@@ -41,7 +41,7 @@ font-family: 'Poppins', sans-serif;
 }
 #top_text h1 {
     position: absolute;
-    top: 70%;
+    top: 65%;
     left: 50%;
     transform: translate(-50%, -30%);
     font-family: 'Poppins', sans-serif;
