@@ -192,6 +192,7 @@ display: block;
 }
 #yoga_head #top_text h1 {
   top: 60%;
+    font-weight: bold;
 }
 #about_yoga_text, #about_wellness_text, #about_zumba_text {
     margin-top: 100px;
